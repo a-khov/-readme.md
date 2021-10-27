@@ -1,4 +1,3 @@
-# -readme.md
 <h1>Моё домашнее задание №1 </h1><br></br>
 JSONNET<br></br>
 <a href="https://ibb.co/3BN2r5b"><img src="https://i.ibb.co/XSs12fP/netology-jsonnet.png" alt="netology-jsonnet" border="0"></a><br></br>
